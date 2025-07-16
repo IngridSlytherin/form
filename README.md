@@ -40,4 +40,4 @@ Este projeto é um template de formulário responsivo criado com **HTML5** e **B
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/formulario-retirada.git
+   git clone https://github.com/IngridSlytherin/form.git
