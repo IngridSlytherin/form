@@ -5,13 +5,13 @@ Este projeto é um template de formulário responsivo criado com **HTML5** e **B
 ## 💻 Preview
 
 ### 📷 Versão Desktop
-![Formulário Desktop](prints/tela-principal.png)
+![Formulário Desktop](prints/tela-principal.jpeg)
 
 ### 📷 Versão Tablet
-![Formulário Mobile](prints/tablet.png)
+![Formulário Mobile](prints/tablet.jpeg)
 
 ### 📱 Versão Mobile
-![Formulário Mobile](prints/mobile.png)
+![Formulário Mobile](prints/mobile.jpeg)
 
 ---
 
